@@ -1,0 +1,13 @@
+{
+  "template": "/work",
+  "commit": "4a63911a6fef3c924e8820c41c1a92404ca6c54a",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "service_name": "aplt-template-auth-service",
+      "project_name": "aplt-template-auth-service",
+      "_template": "/work"
+    }
+  },
+  "directory": null
+}
